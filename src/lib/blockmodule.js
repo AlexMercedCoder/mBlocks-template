@@ -1,4 +1,6 @@
-///////m-Blocks by Alex Merced of AlexMercedCoder.com
+////////////////////////////
+// mBlocks by Alex Merced of AlexMercedCoder.com
+////////////////////////////
 
 //////////////
 //CaptureProps
